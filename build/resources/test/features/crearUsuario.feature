@@ -12,4 +12,4 @@ Feature: como usuario de product store
     Then debe ver product store en el home de la pagina
     Examples:
       |usuario|clave|
-      |prueba9909|123456|
+      |prueba990914|123456|
